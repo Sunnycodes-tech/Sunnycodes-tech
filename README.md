@@ -28,13 +28,8 @@ Email Me 👉 ✉️ **sunnysingh8302@gmail.com** For Collaboration/Project or A
 
 
 ## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy-gamma.vercel.app/?username=sunnycodes-tech&theme=onedark&no-frame=true&row=1&column=2&title=Commits,Repositories" />
 
-<img src="https://github-profile-trophy-gamma.vercel.app/?username=sunnycodes-tech
-&theme=onedark
-&no-frame=true
-&row=1
-&column=4
-&title=Commits,Repositories,Stars,PullRequest" />
 
 
 
