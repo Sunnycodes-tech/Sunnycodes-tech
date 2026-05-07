@@ -1,12 +1,15 @@
 # 💫 Hi 👋, I'm Sunny Singh
-**BCA Student | Web Developer | DSA & AI-ML Learner**
+**Aspiring Software Engineer | Full-Stack Development | DSA | AI-Powered Products**
 
-Email Me 👉 ✉️ **sunnysingh8302@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Passionate about building scalable applications, modern web products, and future-ready AI-integrated systems.
 
-- 🔭 Building frontend projects with **HTML, CSS, JS**
-- 🌱 Learning **React, GSAP, Tailwind, DSA, Python (AI-ML basics)**
-- 👯 Open to collaborate on **web dev & open-source projects**
-- 💬 Ask me about **Frontend, GitHub, DSA journey**
+Email Me 👉 ✉️ **sunnysinghcodex.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 💻 Currently learning Java for DSA & Problem Solving
+- 🌐 Building modern web applications using **JavaScript, React, and Full-Stack technologies**
+- ⚡ Exploring Backend Engineering, System Design, DevOps, and AI workflows
+- 🚀 Interested in SaaS, scalable systems, and real-world product development
+- 🤝 Open to collaboration, **learning opportunities, and developer communities**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sunny.singh_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunnycodes-tech) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Si43729848Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sannysingh8302@gmail.com) 
