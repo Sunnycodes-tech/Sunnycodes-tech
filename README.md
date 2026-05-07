@@ -3,7 +3,7 @@
 
 Passionate about building scalable applications, modern web products, and future-ready AI-integrated systems.
 
-Email Me 👉 ✉️ **sunnysinghcodex.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **sunnysinghcodex@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 💻 Currently learning Java for DSA & Problem Solving
 - 🌐 Building modern web applications using **JavaScript, React, and Full-Stack technologies**
