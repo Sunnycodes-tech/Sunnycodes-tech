@@ -1,63 +1,322 @@
-# 💫 Hi 👋, I'm Sunny Singh
-**Aspiring Software Engineer | Full-Stack Development | DSA | AI-Powered Products**
-
-Passionate about building scalable applications, modern web products, and future-ready AI-integrated systems.
-
-Email Me 👉 ✉️ **sunnysinghcodex@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 💻 Currently learning Java for DSA & Problem Solving
-- 🌐 Building modern web applications using **JavaScript, React, and Full-Stack technologies**
-- ⚡ Exploring Backend Engineering, System Design, DevOps, and AI workflows
-- 🚀 Interested in SaaS, scalable systems, and real-world product development
-- 🤝 Open to collaboration, **learning opportunities, and developer communities**
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sunny.singh_10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sunnycodes-tech) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Si43729848Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sannysingh8302@gmail.com) 
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-<!-- Snake Game Repo View -->
-
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=240&section=header&text=SUNNY%20SINGH&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Future%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Learner&descAlignY=60&descSize=22&animation=fadeIn" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sunnycodes-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sunnycodes-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnycodes-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=1050&lines=Hey+there!+I'm+SUNNY+SINGH+👋;Future+Software+Engineer+🚀;Learning+Full-Stack+Development+💻;DSA+Learning+Journey+⚡;React+%2F+Next.js+%2F+Node.js+Learner+🔥;Manipal+University+Jaipur+🎓;Building+Projects+and+Improving+Every+Day+📚;Always+Learning%2C+Always+Growing+🚀)](https://git.io/typing-svg)
 
-## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy-gamma.vercel.app/?username=sunnycodes-tech&theme=onedark&no-frame=true&row=1&column=2&title=Commits,Repositories" />
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=Sunnycodes-tech&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Sunnycodes-tech?label=Followers&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To-Collaborate-brightgreen?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/Lives%20In-India%20🇮🇳-blue?style=for-the-badge&labelColor=0d1117" />
 
+</div>
 
+<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sunnycodes-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sunnycodes-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
 
-<!--
-**Sunnycodes-tech/Sunnycodes-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Who Am I
 
-Here are some ideas to get you started:
+```typescript
+const sunnySingh = {
+  location       : "India 🇮🇳",
+  role           : "Future Software Engineer",
+  education      : "BCA — Manipal University Jaipur",
+  awards         : ["Full-Stack Development Journey", " DSA Learning Phase"],
+  currentFocus   : ["Full-Stack Development", "React.js", "Node.js" "JAVA-DSA"],
+  openTo         : ["Open-source projects", "Frontend projects", "Learning collaborations"],
+  askMeAbout     : ["HTML/CSS", "JavaScript", "React", "Git & GitHub"],
+  funFact        : "Consistency and discipline build success ",
+  contact        : "sunnysinghcodex@gmail.com",
+  portfolio      : "Coming Soon ",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sunnycodes-tech/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="mailto:sunnysinghcodex@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://x.com/sunnycode_x" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.threads.com/@sunnycode_x" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.instagram.com/_sunnyy_singh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.reddit.com/user/sunny_codex/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://github.com/Sunnycodes-tech" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+## ⚡ What I'm Currently Doing
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔨 Building
+- Frontend projects with **HTML, CSS & JavaScript**
+- Small projects while learning **React.js**
+- Improving problem-solving through **DSA practice**
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 📚 Learning
+- **Full-Stack Development**
+- **React.js & Modern JavaScript**
+- **DSA** and coding fundamentals
+
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+### 🤝 Looking To Collaborate On
+- Frontend web projects
+- Beginner open-source projects
+- Coding & learning communities
+
+    </td>
+
+    <td width="50%" valign="top">
+
+### 🎯 Current Goals
+- Become Full-Stack Developer
+- Improve DSA & Problem Solving
+- Build Real-World Projects
+
+    </td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🗣️ Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+### 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+
+---
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+---
+
+### 🗄️ Database & ORM
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+---
+
+### 📱 App Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🧠 DSA & CS Fundamentals
+
+![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-Data%20Structures-orange?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Java-red?style=for-the-badge)
+
+---
+
+### ☁️ Deployment & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-13111C?style=for-the-badge&logo=railway&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+
+---
+
+### 🛠️ Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+
+## 🎯 Skill Proficiency
+
+<div align="center">
+
+| Skill | Proficiency |
+|-------|------------|
+| HTML / CSS | ████████░░ 80% |
+| JavaScript | ███████░░░ 70% |
+| Java Programming | ███████░░░ 70% |
+| Git & GitHub | ██████░░░░ 60% |
+| React.js | █████░░░░░ 50% |
+| DSA & Problem Solving | █████░░░░░ 50% |
+| Full-Stack Development Journey | ████░░░░░░ 40% |
+| App Development (Flutter) | ███░░░░░░░ 30% |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunnycodes-tech&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sunnycodes-tech/Sunnycodes-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+
+## 💡 Dev Philosophy
+
+<div align="center">
+
+> *"Consistency beats motivation."* 🚀
+
+> *"First, solve the problem. Then, write the code."* — John Johnson
+
+> *"Small progress every day leads to big results."* ⚡
+
+> *"Code. Learn. Build. Repeat."* 💻
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## ✍️ Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+### 👀 Thanks for visiting my profile — Let's build something amazing together 🚀
+
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnysinghcodex@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnycodes-tech/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sunnycodes-tech)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=130&section=footer" />
+
+</div>
