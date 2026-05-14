@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=240&section=header&text=SUNNY%20SINGH&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Future%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20DSA%20Learner&descAlignY=60&descSize=22&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=240&section=header&text=SUNNY%20SINGH&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=60&descSize=22&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=1050&lines=Hey+there!+I'm+SUNNY+SINGH+👋;Future+Software+Engineer+🚀;Learning+Full-Stack+Development+💻;DSA+Learning+Journey+⚡;React+%2F+Next.js+%2F+Node.js+Learner+🔥;Manipal+University+Jaipur+🎓;Building+Projects+and+Improving+Every+Day+📚;Always+Learning%2C+Always+Growing+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&random=false&width=1100&lines=Hey+there!+I'm+SUNNY+SINGH+👋;Software+Engineer+💻;Full-Stack+Developer+🚀;Mobile+App+Development+📱;React+%2F+Next.js+%2F+Node.js+⚡;Flutter+%26+Cross-Platform+Apps+🔥;Manipal+University+Jaipur+🎓;Building+Projects+and+Growing+Every+Day+📚)](https://git.io/typing-svg)
 
 <br/>
 
@@ -30,13 +30,13 @@
 ```typescript
 const sunnySingh = {
   location       : "India 🇮🇳",
-  role           : "Future Software Engineer",
+  role           : "Software Engineer | Full-Stack Developer | Mobile App Developer",
   education      : "BCA — Manipal University Jaipur",
-  awards         : ["Full-Stack Development Journey", " DSA Learning Phase"],
-  currentFocus   : ["Full-Stack Development", "React.js", "Node.js" "JAVA-DSA"],
-  openTo         : ["Open-source projects", "Frontend projects", "Learning collaborations"],
-  askMeAbout     : ["HTML/CSS", "JavaScript", "React", "Git & GitHub"],
-  funFact        : "Consistency and discipline build success ",
+  awards         : ["Full-Stack Development Journey ", "Java + DSA Learning "],
+  currentFocus   : ["Full-Stack Development", "React.js", "Node.js", "Java + DSA"],
+  openTo         : ["Open-source projects", "Full-Stack applications", "Mobile app projects"],
+  askMeAbout     : ["HTML/CSS", "JavaScript", "React", "Java + DSA", "Git & GitHub"],
+  funFact        : "Consistency and discipline create long-term success ",
   contact        : "sunnysinghcodex@gmail.com",
   portfolio      : "Coming Soon ",
 };
@@ -99,9 +99,9 @@ const sunnySingh = {
     <td width="50%" valign="top">
 
 ### 🔨 Building
-- Frontend projects with **HTML, CSS & JavaScript**
-- Small projects while learning **React.js**
-- Improving problem-solving through **DSA practice**
+- Full-Stack web projects with **React & Node.js**
+- Modern UI/UX projects using **Frontend Technologies**
+- Cross-platform mobile app development journey 
 
     </td>
 
@@ -109,8 +109,8 @@ const sunnySingh = {
 
 ### 📚 Learning
 - **Full-Stack Development**
-- **React.js & Modern JavaScript**
-- **DSA** and coding fundamentals
+- **Java + DSA** for problem solving
+- **React.js, Next.js & Backend Development**
 
     </td>
   </tr>
@@ -119,18 +119,19 @@ const sunnySingh = {
     <td width="50%" valign="top">
 
 ### 🤝 Looking To Collaborate On
-- Frontend web projects
-- Beginner open-source projects
-- Coding & learning communities
+- Full-Stack web applications
+- Open-source development projects
+- Mobile app & modern frontend projects
 
     </td>
 
     <td width="50%" valign="top">
 
 ### 🎯 Current Goals
-- Become Full-Stack Developer
-- Improve DSA & Problem Solving
-- Build Real-World Projects
+- Become Software Engineer
+- Master Full-Stack Development
+- Build Real-World Scalable Projects
+- Grow in Mobile App Development
 
     </td>
   </tr>
@@ -139,7 +140,6 @@ const sunnySingh = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
 
 ## 💻 Tech Stack
 
@@ -150,7 +150,11 @@ const sunnySingh = {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -158,10 +162,12 @@ const sunnySingh = {
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 ---
 
@@ -171,6 +177,7 @@ const sunnySingh = {
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
 
@@ -179,6 +186,8 @@ const sunnySingh = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ---
@@ -188,6 +197,7 @@ const sunnySingh = {
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
@@ -196,6 +206,9 @@ const sunnySingh = {
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-blue?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-Data%20Structures-orange?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-Java-red?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-Database%20Management-green?style=for-the-badge)
+![OS](https://img.shields.io/badge/Operating_System-Computer%20Science-lightgrey?style=for-the-badge)
+![CN](https://img.shields.io/badge/Computer_Networks-Networking-blueviolet?style=for-the-badge)
 
 ---
 
@@ -217,6 +230,8 @@ const sunnySingh = {
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 </div>
 
@@ -247,12 +262,11 @@ const sunnySingh = {
 
 ---
 
-
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunnycodes-tech&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://raw.githubusercontent.com/Sunnycodes-tech/Sunnycodes-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -261,11 +275,12 @@ const sunnySingh = {
 ---
 
 
-## 🐍 Contribution Snake
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sunnycodes-tech/Sunnycodes-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunnycodes-tech&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&area_color=70a5fd&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
