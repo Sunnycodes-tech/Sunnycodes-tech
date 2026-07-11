@@ -321,21 +321,32 @@ const sunnySingh = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sunnycodes-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunnycodes-tech&theme=github_dark" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnycodes-tech&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunnycodes-tech&theme=github_dark" />
 
 </div>
 
+<br>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sunnycodes-tech&theme=tokyonight&hide_border=true" />
+<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunnycodes-tech&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sunnycodes-tech&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
+
 
 <!--
 ## 🏆 GitHub Trophies
