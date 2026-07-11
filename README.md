@@ -339,7 +339,7 @@ const sunnySingh = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Sunnycodes-tech&theme=github-dark-blue&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Sunnycodes-tech&theme=tokyonight&hide_border=true" />
 
 </div>
 
