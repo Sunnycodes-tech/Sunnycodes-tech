@@ -297,8 +297,7 @@ const sunnySingh = {
 
 ---
 
-
-
+<!--
 ## 🎯 Areas of Expertise
 
 <div align="center">
@@ -316,6 +315,7 @@ const sunnySingh = {
 </div>
 
 ---
+-->
 
 ## 📊 GitHub Analytics
 
