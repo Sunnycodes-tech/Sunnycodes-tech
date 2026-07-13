@@ -12,7 +12,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/Sunnycodes-tech?label=FOLLOWERS&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/github/stars/Sunnycodes-tech?affiliations=OWNER&style=for-the-badge&label=TOTAL%20STARS&color=facc15&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PUBLIC%20REPOS-3-6f42c1?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-brightgreen?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
