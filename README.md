@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=1200&lines=Hey+there!+I'm+SUNNY+SINGH+👋;Software+Engineer+💻;Full-Stack+Developer+🚀;Mobile+App+Developer+📱;Building+Scalable+Web+Applications+⚡;Building+Cross-Platform+Mobile+Apps+🔥;Open-Source+Contributor+🌍;Manipal+University+Jaipur+🎓;Always+Learning,+Always+Building+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=1200&lines=Hey+there!+I'm+SUNNY+SINGH+;Software+Engineer+;Full-Stack+Developer+;Mobile+App+Developer+;Building+Scalable+Web+Applications+;Building+Cross-Platform+Mobile+Apps+;Open-Source+Contributor+;Manipal+University+Jaipur+;Always+Learning,+Always+Building+)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -34,7 +34,7 @@
 ```typescript
 const sunnySingh = {
   location       : "India 🇮🇳",
-  role           : "Software Engineer | Full-Stack Developer | Mobile App Developer",
+  role           : "Aspiring Software Engineer | Full-Stack Developer | Mobile App Developer",
   education      : "Bachelor of Computer Applications (BCA) — Manipal University Jaipur",
 
   specialization : [
@@ -75,11 +75,11 @@ const sunnySingh = {
     "Git & GitHub"
   ],
 
-  funFact        : "Consistency compounds faster than talent. 🚀",
+  funFact        : "Consistency compounds faster than talent.",
 
   contact        : "sunnysinghcodex@gmail.com",
 
-  portfolio      : "Coming Soon 🚀"
+  portfolio      : "Coming Soon.."
 };
 ```
 
@@ -139,13 +139,13 @@ const sunnySingh = {
 ---
 
 
-## ⚡ What I'm Currently Doing
+##  What I'm Currently Doing
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
 
-### 🔨 Building
+###  Building
 - Scalable Full-Stack Web Applications Using the **MERN STACK**.
 - Modern & Responsive UI/UX Projects using **Frontend Technologies**.
 - Cross-Platform Mobile Applications with Flutter.
@@ -154,7 +154,7 @@ const sunnySingh = {
 
     <td width="50%" valign="top">
 
-### 📚 Learning
+###  Learning
 - **Software Engineering & Clean Architecture**
 - **Full-Stack Development (Mern Stack)**
 - **Java + DSA (Data Structures & Algorithms)** for Problem Solving
@@ -166,7 +166,7 @@ const sunnySingh = {
   <tr>
     <td width="50%" valign="top">
 
-### 🤝 Looking To Collaborate On
+###  Looking To Collaborate On
 - Open Source Contributions
 - Full-Stack Web Applications
 - Mobile App Development Projects
@@ -177,7 +177,7 @@ const sunnySingh = {
 
     <td width="50%" valign="top">
 
-### 🎯 Current Goals
+###  Current Goals
 - Become Software Engineer
 - Master Full-Stack Development
 - Build Real-World Scalable Projects
@@ -196,101 +196,99 @@ const sunnySingh = {
 
 <div align="center">
 
-### 🗣️ Languages
+###  Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-
----
-
-### 🚀 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
 
 ---
 
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
----
-
-### 🗄️ Database & ORM
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+###  Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/framer_motion-black?style=plastic&logo=framer&logoColor=blue)
 
 ---
 
+###  Backend
 
-### 📱 Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=plastic)
+![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
+![Socket.io](https://img.shields.io/badge/socket.io-010101?style=plastic&logo=socketdotio&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-E10098?style=plastic&logo=graphql&logoColor=white)
 
 ---
 
-### ☁️ Deployment & DevOps
+###  Database & ORM
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-222222?style=for-the-badge&logo=githubactions&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-430098?style=for-the-badge&logo=render&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-13111C?style=for-the-badge&logo=railway&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=plastic&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=plastic&logo=mongoose&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?style=plastic&logo=prisma&logoColor=white)
 
 ---
 
 
-### 🧠 DSA & CS Fundamentals
+###  Mobile Development
 
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-Problem%20Solving-blue?style=for-the-badge)
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-OOP-red?style=for-the-badge)
-![DBMS](https://img.shields.io/badge/DBMS-Database%20Management-green?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating_Systems-OS-lightgrey?style=for-the-badge)
-![Computer Networks](https://img.shields.io/badge/Computer_Networks-CN-blueviolet?style=for-the-badge)
-![System Design](https://img.shields.io/badge/System_Design-Scalable%20Architecture-blue?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=plastic&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
+
+---
+
+###  Deployment & DevOps
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=plastic&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF.svg?style=plastic&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-222222.svg?style=plastic&logo=githubactions&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=%2300C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=plastic&logo=render&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E.svg?style=plastic&logo=railway&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=plastic&logo=digitalocean&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020.svg?style=plastic&logo=cloudflare&logoColor=white)
 
 ---
 
 
-### 🛠️ Tools
+###  DSA & CS Fundamentals
 
-![VS Code](https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA-Problem_Solving-blue.svg?style=plastic)
+![OOP](https://img.shields.io/badge/OOP-Object_Oriented_Programming-red.svg?style=plastic)
+![DBMS](https://img.shields.io/badge/DBMS-Database_Management-green.svg?style=plastic)
+![OS](https://img.shields.io/badge/Operating_Systems-OS-lightgrey.svg?style=plastic)
+![CN](https://img.shields.io/badge/Computer_Networks-CN-blueviolet.svg?style=plastic)
+![System Design](https://img.shields.io/badge/System_Design-Scalable_Architecture-blue.svg?style=plastic)
 
+---
+
+
+###  Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-0078D7.svg?style=plastic&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellijidea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=plastic&logo=postman&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=plastic&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -298,7 +296,7 @@ const sunnySingh = {
 ---
 
 <!--
-## 🎯 Areas of Expertise
+##  Areas of Expertise
 
 <div align="center">
 
