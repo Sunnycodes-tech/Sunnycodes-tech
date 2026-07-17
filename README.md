@@ -181,7 +181,6 @@ const sunnySingh = {
 - Become Software Engineer
 - Master Full-Stack Development
 - Build Real-World Scalable Projects
-- Grow in Mobile App Development
 - Solve Real-World Problems Through Technology
 
     </td>
