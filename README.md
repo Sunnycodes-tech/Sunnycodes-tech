@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=250&section=header&text=SUNNY%20SINGH&fontSize=74&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Mobile%20App%20Developer&descAlignY=60&descSize=22&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=250&section=header&text=SUNNY%20SINGH&fontSize=74&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer" />
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=1200&lines=Hey+there!+I'm+SUNNY+SINGH+;Software+Engineer+;Full-Stack+Developer+;Mobile+App+Developer+;Building+Scalable+Web+Applications+;Building+Cross-Platform+Mobile+Apps+;Open-Source+Contributor+;Manipal+University+Jaipur+;Always+Learning,+Always+Building+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=1200&lines=Hey+there!+I'm+SUNNY+SINGH+;Software+Engineer+;Full-Stack+Developer+;Building+Scalable+Web+Applications+;Building+Cross-Platform+Mobile+Apps+;Open-Source+Contributor+;Manipal+University+Jaipur+;Always+Learning,+Always+Building+)](https://git.io/typing-svg)
 
 <br/><br/>
 
@@ -31,55 +31,38 @@
 
 ## 🧠 Who Am I
 
+
+<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" />
+
 ```typescript
 const sunnySingh = {
-  location       : "India 🇮🇳",
-  role           : "Aspiring Software Engineer | Full-Stack Developer | Mobile App Developer",
-  education      : "Bachelor of Computer Applications (BCA) — Manipal University Jaipur",
+  role: "Aspiring Software Engineer",
 
-  specialization : [
-    "Full-Stack Web Development",
-    "Software Engineering",
-    "Problem Solving"
+  education: "BCA • Manipal University Jaipur",
+
+  focus: [
+    "Full-Stack Development",
+    "Mobile Apps",
+    "System Design",
+    "DSA"
   ],
 
-  currentFocus : [
-  "Scalable Web Applications",
-  "Cross-Platform Mobile Apps",
-  "System Design",
-  "Data Structures & Algorithms"
-],
-
-  techStack : [
+  tech: [
     "Java",
     "JavaScript",
     "TypeScript",
     "React",
     "Node.js",
-    "Flutter",
     "MongoDB"
-],
+  ],
 
-  openTo         : [
-    "Open Source Contributions",
+  openTo: [
+    "Open Source",
     "Full-Stack Projects",
-    "Mobile App Projects",
-    "Technical Collaborations"
+    "Collaborations"
   ],
 
-  askMeAbout     : [
-    "Web Development",
-    "Mobile Development",
-    "Java",
-    "DSA",
-    "Git & GitHub"
-  ],
-
-  funFact        : "Consistency compounds faster than talent.",
-
-  contact        : "sunnysinghcodex@gmail.com",
-
-  portfolio      : "Coming Soon.."
+  funFact: "Consistency compounds faster than talent. 🚀"
 };
 ```
 
@@ -139,57 +122,7 @@ const sunnySingh = {
 ---
 
 
-##  What I'm Currently Doing
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-###  Building
-- Scalable Full-Stack Web Applications Using the **MERN STACK**.
-- Modern & Responsive UI/UX Projects using **Frontend Technologies**.
-- Cross-Platform Mobile Applications with Flutter.
-
-    </td>
-
-    <td width="50%" valign="top">
-
-###  Learning
-- **Software Engineering & Clean Architecture**
-- **Full-Stack Development (Mern Stack)**
-- **Java + DSA (Data Structures & Algorithms)** for Problem Solving
-- **System Design Fundamentals**
-
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-###  Looking To Collaborate On
-- Open Source Contributions
-- Full-Stack Web Applications
-- Mobile App Development Projects
-- Technical Collaborations & Community Building
-
-
-    </td>
-
-    <td width="50%" valign="top">
-
-###  Current Goals
-- Become Software Engineer
-- Master Full-Stack Development
-- Build Real-World Scalable Projects
-- Solve Real-World Problems Through Technology
-
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 ## 💻 Tech Stack
 
@@ -200,8 +133,7 @@ const sunnySingh = {
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white)
+
 
 ---
 
@@ -214,7 +146,6 @@ const sunnySingh = {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/framer_motion-black?style=plastic&logo=framer&logoColor=blue)
 
 ---
 
@@ -240,20 +171,11 @@ const sunnySingh = {
 ---
 
 
-###  Mobile Development
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=plastic&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
-
----
 
 ###  Deployment & DevOps
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=plastic&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25.svg?style=plastic&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-2088FF.svg?style=plastic&logo=github-actions&logoColor=white)
@@ -358,95 +280,8 @@ const sunnySingh = {
 -->
 
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunnycodes-tech&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
 
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sunnycodes-tech/Sunnycodes-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🎯 Current Focus
-
-```yaml
-Learning:
-  - Software Engineering
-  - MERN Stack Development
-  - Flutter & Mobile Development
-  - Data Structures & Algorithms
-  - System Design
-
-Building:
-  - Full-Stack Web Applications
-  - Cross-Platform Mobile Apps
-  - Open Source Projects
-
-Exploring:
-  - Cloud Technologies
-  - DevOps Practices
-  - Scalable Architectures
-
-Open To:
-  - Open Source Collaboration
-  - Full-Stack Projects
-  - Mobile Development Projects
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-
-
-
-## 💡 Dev Philosophy
-
-<div align="center">
-
-> *"Consistency beats motivation."* 
-
-> *"First, solve the problem. Then, write the code."* 
-
-> *"Small progress every day leads to big results."* 
-
-> *"Code. Learn. Build. Repeat."* 
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## ✍️ Quote of the Day
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
 
 ### 👀 Thanks for visiting my profile — Let's build something amazing together 🚀
 
