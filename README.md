@@ -148,7 +148,7 @@ const sunnySingh = {
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=white)
 
 ---
-
+<!--
 ###  Backend
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
@@ -240,9 +240,9 @@ const sunnySingh = {
 
 <div align="center">
 
-<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunnycodes-tech&theme=github_dark" />
+<img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sunnycodes-tech&theme=github_dark" />
 
-<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunnycodes-tech&theme=github_dark" />
+<img width="25%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sunnycodes-tech&theme=github_dark" />
 
 </div>
 
@@ -250,7 +250,7 @@ const sunnySingh = {
 
 <div align="center">
 
-<img width="65%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunnycodes-tech&theme=github_dark" />
+<img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sunnycodes-tech&theme=github_dark" />
 
 </div>
 
