@@ -42,7 +42,6 @@ const sunnySingh = {
 
   focus: [
     "Full-Stack Development",
-    "Mobile Apps",
     "System Design",
     "DSA"
   ],
