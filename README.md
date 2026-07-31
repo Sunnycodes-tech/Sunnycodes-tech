@@ -32,7 +32,6 @@
 ## 🧠 Who Am I
 
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Coding" />
 
 ```typescript
 const sunnySingh = {
