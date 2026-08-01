@@ -29,44 +29,20 @@
 ---
 
 
-## 🧠 Who Am I
+## 🧠 About Me
 
-
-
-```typescript
-const sunnySingh = {
-  role: "Aspiring Software Engineer",
-
-  education: "BCA • Manipal University Jaipur",
-
-  focus: [
-    "Full-Stack Development",
-    "System Design",
-    "DSA"
-  ],
-
-  tech: [
-    "Java",
-    "JavaScript",
-    "TypeScript",
-    "React",
-    "Node.js",
-    "MongoDB"
-  ],
-
-  openTo: [
-    "Open Source",
-    "Full-Stack Projects",
-    "Collaborations"
-  ],
-
-  funFact: "Consistency compounds faster than talent. 🚀"
-};
+```text
+🔴 🟡 🔵
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=600&color=58A6FF&background=0D111700&multiline=true&width=520&height=220&lines=%3E+whoami;Sunny+Singh;%3E+role;Aspiring+Software+Engineer;%3E+stack;Java+%7C+JavaScript+%7C+React+%7C+Node.js;%3E+focus;Building+Scalable+Applications;%3E+status;Always+Learning+%F0%9F%9A%80" />
+
+</div>
 
 ---
+
 
 ## 🌐 Connect With Me
 
@@ -126,21 +102,23 @@ const sunnySingh = {
 
 <div align="center">
 
-###  Languages
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232A.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white)
 
 
 ---
 
+<!--
 ###  Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=plastic&logo=redux&logoColor=white)
+
+
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=plastic&logo=greensock&logoColor=white)
