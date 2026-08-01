@@ -12,8 +12,6 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/Sunnycodes-tech?label=FOLLOWERS&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/PUBLIC%20REPOS-3-6f42c1?style=for-the-badge&labelColor=0d1117" />
-&nbsp;
 <img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-brightgreen?style=for-the-badge&labelColor=0d1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/LIVES%20IN-INDIA%20🇮🇳-blue?style=for-the-badge&labelColor=0d1117" />
@@ -83,6 +81,10 @@ const sunny = {
 ![](https://streak-stats.demolab.com/?user=Sunnycodes-tech&theme=blue_navy&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sunnycodes-tech&theme=blue_navy&hide_border=false&layout=compact)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
 
 
 ## 📈 Contribution Activity
