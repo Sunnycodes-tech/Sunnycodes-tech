@@ -73,14 +73,15 @@ const sunny = {
 ---
 
 
-
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=Sunnycodes-tech&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=Sunnycodes-tech&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://streak-stats.demolab.com/?user=Sunnycodes-tech&theme=blue_navy&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sunnycodes-tech&theme=blue_navy&hide_border=false&layout=compact)
+![](https://streak-stats.demolab.com/?user=Sunnycodes-tech&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&hide_border=false)
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunnycodes-tech&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&border_color=30363d&hide_border=false)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
