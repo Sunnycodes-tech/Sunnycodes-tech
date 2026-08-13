@@ -190,7 +190,7 @@ const sunny = {
 
 ## `> contact --me`
 
-I'm open to meaningful collaborations, full-stack projects, automation work, and open-source opportunities.
+**Always open to meaningful collaborations, great projects, and open-source opportunities.**
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunnycodes-tech/">
