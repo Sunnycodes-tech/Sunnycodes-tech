@@ -58,15 +58,17 @@ const sunny = {
 
 ## `> tech-stack`
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="./assets/icons/java.svg?v=1" width="74" alt="Java">
+<img src="./assets/icons/javascript.svg?v=1" width="74" alt="JavaScript">
+<img src="./assets/icons/typescript.svg?v=1" width="74" alt="TypeScript">
+<img src="./assets/icons/react.svg?v=1" width="74" alt="React">
+<img src="./assets/icons/nextjs.svg?v=1" width="74" alt="Next.js">
+<img src="./assets/icons/redux.svg?v=1" width="74" alt="Redux">
+<img src="./assets/icons/tailwind.svg?v=1" width="74" alt="Tailwind CSS">
+<img src="./assets/icons/git.svg?v=1" width="74" alt="Git">
+<img src="./assets/icons/github.svg?v=1" width="74" alt="GitHub">
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
