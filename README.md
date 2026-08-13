@@ -27,7 +27,7 @@
 ---
 
 
-## 🧠 Who Am I
+## `> whoami`
 
 ```typescript
 const sunny = {
@@ -56,7 +56,7 @@ const sunny = {
 ---
 
 
-# 💻 Tech Stack:
+## `> tech-stack`
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -73,7 +73,7 @@ const sunny = {
 ---
 
 
-# 📊 GitHub Stats:
+## `> github-stats`
 
 ![](https://github-readme-stats.shion.dev/api?username=Sunnycodes-tech&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true)
 
@@ -88,7 +88,7 @@ const sunny = {
 ---
 
 
-## 📈 Contribution Activity
+## `> contribution-activity`
 
 <div align="center">
 
@@ -115,7 +115,7 @@ const sunny = {
 -->
 
 
-## 🌐 Connect With Me
+## `> connect --with-me`
 
 <div align="center">
 
@@ -171,16 +171,17 @@ const sunny = {
 
 
 
-### 👀 Thanks for visiting my profile — Let's build something amazing together 🚀
+## `> contact --me`
 
-[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunnysinghcodex@gmail.com)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/🤝%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunnycodes-tech/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sunnycodes-tech)
+I'm open to meaningful collaborations, full-stack projects, automation work, and open-source opportunities.
 
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sunnycodes-tech/">
+    <img width="190" src="./assets/contact-linkedin.svg?v=1" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:sunnysinghcodex@gmail.com">
+    <img width="190" src="./assets/contact-email.svg?v=1" alt="Send an email">
+  </a>
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e75b6&height=130&section=footer" />
-
-</div>
+**Built with intent. Shipped with purpose.**<br>
