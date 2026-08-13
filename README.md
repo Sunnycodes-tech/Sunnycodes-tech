@@ -196,6 +196,7 @@ const sunny = {
   <a href="https://www.linkedin.com/in/sunnycodes-tech/">
     <img width="190" src="./assets/contact-linkedin.svg?v=1" alt="Connect on LinkedIn">
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a href="mailto:sunnysinghcodex@gmail.com">
     <img width="190" src="./assets/contact-email.svg?v=1" alt="Send an email">
   </a>
