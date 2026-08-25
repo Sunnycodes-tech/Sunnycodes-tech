@@ -109,7 +109,7 @@ const sunny = {
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunnycodes-tech&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0F3D91&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunnycodes-tech&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0F3D91&hide_border=true)](https://github.com/Sunnycodes-tech)
 
 </div>
 
