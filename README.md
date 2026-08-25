@@ -110,11 +110,13 @@ const sunny = {
 
 ## `> contribution-activity`
 
-<div align="center">
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sunnycodes-tech&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0F3D91&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sunnycodes-tech/Sunnycodes-tech/output/activity-graph.svg"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
