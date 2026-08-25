@@ -81,14 +81,16 @@ const sunny = {
   <img
     align="left"
     width="48%"
-    src="https://github-readme-stats.shion.dev/api?username=Sunnycodes-tech&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&icon_color=58A6FF&border_color=30363d&hide_border=false&include_all_commits=true&count_private=true"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
   />
 
- <img
-  align="right"
-  width="41%"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sunnycodes-tech&bg_color=0d1117&title_color=58A6FF&text_color=ffffff&border_color=30363d&hide_border=false&layout=compact&scale=0.85"
-/>
+  <img
+    align="right"
+    width="41%"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
 </p>
 
 <br clear="both"/>
@@ -97,6 +99,7 @@ const sunny = {
   <img
     width="48%"
     src="https://streak-stats.demolab.com/?user=Sunnycodes-tech&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&hide_border=false"
+    alt="GitHub Streak"
   />
 </p>
 
