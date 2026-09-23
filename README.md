@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=1200&lines=Hey+there!+I'm+SUNNY+SINGH+;Software+Engineer+;Full-Stack+Developer+;Building+Scalable+Web+Applications+;Building+Cross-Platform+Mobile+Apps+;Open-Source+Contributor+;Manipal+University+Jaipur+;Always+Learning,+Always+Building+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=1200&lines=Hey+there!+I'm+Sunny+Singh+;Software+Engineer+;Full-Stack+Developer+;Building+Scalable+Web+Applications+;Building+Cross-Platform+Mobile+Apps+;Open-Source+Contributor+;Manipal+University+Jaipur+;Always+Learning,+Always+Building+)](https://git.io/typing-svg)
 
 <br/><br/>
 
