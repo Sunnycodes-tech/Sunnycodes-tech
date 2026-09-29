@@ -139,7 +139,7 @@ const sunny = {
 
 ## `> connect --with-me`
 
-<div align="center">
+<div align="start">
 
 <a href="mailto:sunnysinghcodex@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -196,8 +196,10 @@ const sunny = {
 ## `> contact --me`
 
 **Always open to meaningful collaborations, great projects, and open-source opportunities.**
+<br>
+**Built with intent. Shipped with purpose.**
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/sunnycodes-tech/">
     <img width="190" src="./assets/contact-linkedin.svg?v=1" alt="Connect on LinkedIn">
   </a>
@@ -207,4 +209,4 @@ const sunny = {
   </a>
 </p>
 
-**Built with intent. Shipped with purpose.**<br>
+
