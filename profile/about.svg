@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="440" viewBox="0 0 980 440" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="480" viewBox="0 0 980 480" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
   <style>
     .key { fill:#3fb950; font-size:13px; font-weight:700; }
     .val { fill:#c9d1d9; font-size:13px; }
@@ -18,7 +18,7 @@
     @keyframes blink { 50% { opacity:0; } }
   </style>
 
-  <rect x="1" y="1" width="978" height="438" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="978" height="478" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <path d="M1 13 a12 12 0 0 1 12 -12 h954 a12 12 0 0 1 12 12 v25 h-978 z" fill="#161b22"/>
   <line x1="1" y1="38" x2="979" y2="38" stroke="#30363d"/>
   <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
@@ -28,36 +28,41 @@
 
   <text x="30" y="66" class="row"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">neofetch --profile</tspan></text>
 
-  <text x="55" y="110" class="hdr">Sunny Singh</text>
-  <line x1="55" y1="119" x2="925" y2="119" stroke="#30363d"/>
+  <text x="55" y="105" class="hdr">Sunny Singh</text>
+  <line x1="55" y1="114" x2="925" y2="114" stroke="#30363d"/>
 
-  <text x="55" y="143" class="key">Role</text>
-  <text x="165" y="143" class="val">Aspiring Software Engineer (SDE)</text>
-  <text x="55" y="162" class="key">Edu</text>
-  <text x="165" y="162" class="val">BCA · Manipal University Jaipur</text>
-  <text x="55" y="181" class="key">Focus</text>
-  <text x="165" y="181" class="acc">Full-Stack · Java &amp; DSA · Open Source</text>
+  <text x="55" y="137" class="key">Role</text>
+  <text x="165" y="137" class="val">Aspiring Software Engineer (SDE)</text>
+  <text x="55" y="156" class="key">Edu</text>
+  <text x="165" y="156" class="val">BCA · Manipal University Jaipur</text>
+  <text x="55" y="175" class="key">Focus</text>
+  <text x="165" y="175" class="acc">Full-Stack · Java &amp; DSA · Open Source</text>
 
-  <text x="55" y="213" class="sec">~/stack</text>
-  <text x="55" y="234" class="key">Frontend</text>
-  <text x="165" y="234" class="val">React.js · Next.js · JavaScript · TypeScript</text>
-  <text x="55" y="253" class="key">Backend</text>
-  <text x="165" y="253" class="val">Node.js · Express.js · Spring Boot</text>
-  <text x="55" y="272" class="key">Database</text>
-  <text x="165" y="272" class="val">MongoDB · PostgreSQL · MySQL</text>
-  <text x="55" y="291" class="key">Tools</text>
-  <text x="165" y="291" class="val">Git · GitHub · VS Code · IntelliJ IDEA</text>
+  <text x="55" y="205" class="sec">~/stack</text>
+  <text x="55" y="226" class="key">Frontend</text>
+  <text x="165" y="226" class="val">HTML · CSS · JavaScript · TypeScript</text>
+  <text x="55" y="245" class="key">Framework</text>
+  <text x="165" y="245" class="val">React.js · Next.js · Tailwind CSS</text>
+  <text x="55" y="264" class="key">Backend</text>
+  <text x="165" y="264" class="val">Node.js · Express.js</text>
+  <text x="55" y="283" class="key">Database</text>
+  <text x="165" y="283" class="val">MongoDB · PostgreSQL · MySQL</text>
+  <text x="55" y="302" class="key">Language</text>
+  <text x="165" y="302" class="val">Java · JavaScript · TypeScript</text>
+  <text x="55" y="321" class="key">Tools</text>
+  <text x="165" y="321" class="val">Git · GitHub · VS Code · IntelliJ IDEA</text>
 
-  <text x="55" y="323" class="sec">~/projects</text>
-  <text x="55" y="344" class="key">Portfolio</text>
-  <text x="165" y="344" class="wrn">Personal Developer Portfolio</text>
-  <text x="55" y="363" class="key">EcomFlow</text>
-  <text x="165" y="363" class="wrn">AI-Powered Ecommerce Automation</text>
-  <text x="55" y="382" class="key">OpenSource</text>
-  <text x="165" y="382" class="wrn">Open Source Contributions</text>
+  <text x="55" y="351" class="sec">~/projects</text>
+  <text x="55" y="372" class="key">Portfolio</text>
+  <text x="165" y="372" class="wrn">Personal Developer Portfolio</text>
+  <text x="55" y="391" class="key">Cohort 3.0</text>
+  <text x="165" y="391" class="wrn">AI-Powered Ecommerce Automation</text>
+  <text x="55" y="410" class="key">OpenSource</text>
+  <text x="165" y="410" class="wrn">Learning · Building · Contributing</text>
 
-  <text x="55" y="410" class="key">GitHub</text>
-  <text x="165" y="410" class="acc">github.com/Sunnycodes-tech</text>
-  <text x="55" y="429" class="key">Goal</text>
-  <text x="165" y="429" class="val">Building useful things with code</text>
+  <text x="55" y="440" class="sec">~/connect</text>
+  <text x="55" y="459" class="key">GitHub</text>
+  <text x="165" y="459" class="acc">github.com/Sunnycodes-tech</text>
+  <text x="500" y="459" class="key">LinkedIn</text>
+<text x="590" y="459" class="acc">linkedin.com/in/Sunnycodes-tech</text>
 </svg>
