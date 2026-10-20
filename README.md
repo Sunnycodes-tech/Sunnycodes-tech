@@ -27,12 +27,38 @@
 ---
 
 
+## `> contributions`
+
+<div align="center">
+
+<h3><code>sunny@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Sunny Singh's GitHub contribution graph" />
+
+<br/><br/>
+
+<h3><code>sunny@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./sunny-ascii.svg" width="420" alt="Sunny Singh ASCII portrait" /></td>
+    <td valign="top"><img src="./stats.svg" width="420" alt="Sunny Singh contribution and streak statistics" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+
 ## `> whoami`
 
 ```typescript
 const sunny = {
   role: "Aspiring Software Engineer",
-  education: "Bachelor of Computer Applications • Manipal University Jaipur",
+  education: "Bachelor of Computer Applications â€¢ Manipal University Jaipur",
 
   focus: [
     "Full-Stack Development",
@@ -123,7 +149,7 @@ const sunny = {
 ---
 
 <!--
-## 🐍 Contribution Snake
+## ðŸ Contribution Snake
 
 <div align="center">
 
@@ -208,5 +234,3 @@ const sunny = {
     <img width="190" src="./assets/contact-email.svg?v=1" alt="Send an email">
   </a>
 </p>
-
-
