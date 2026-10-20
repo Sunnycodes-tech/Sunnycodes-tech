@@ -1,4 +1,4 @@
-<div align="center">
+<!--<div align="center">
   <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=250&section=header&text=SUNNY%20SINGH&fontSize=74&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer" />
 </div>
 
@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
+-->
 
 ## `> contributions`
 
