@@ -57,30 +57,37 @@
 
 ```typescript
 const sunny = {
+  name: "Sunny Singh",
   role: "Aspiring Software Engineer",
-  education: "Bachelor of Computer Applications â€¢ Manipal University Jaipur",
+  education: "BCA - Manipal University Jaipur",
 
   focus: [
     "Full-Stack Development",
     "Java & DSA",
-    "System Design"
+    "System Design",
+    "Open Source"
   ],
 
-  stack: [
-    "Java",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Next.js"
+  stack: {
+    languages: ["Java", "JavaScript", "TypeScript"],
+    frontend: ["React", "Next.js", "HTML", "CSS"],
+    backend: ["Node.js", "Express.js"],
+    databases: ["MongoDB", "PostgreSQL"]
+  },
+
+  currentlyLearning: [
+    "Advanced DSA",
+    "Full-Stack Development",
+    "Open Source Contributions"
   ],
 
+  goal: "Building useful things with code"
 };
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
 
 ## `> tech-stack`
 
