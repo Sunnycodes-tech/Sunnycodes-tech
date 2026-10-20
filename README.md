@@ -35,6 +35,8 @@
 <img src="./contrib-heatmap.svg" width="860" alt="Sunny Singh's GitHub contribution graph" />
 
 <br/><br/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ 
 ---
 
 <h3><code>sunny@github ~ $ whoami</code></h3>
@@ -49,6 +51,7 @@
 </div>
 
 <br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -64,9 +67,6 @@
     alt="Sunny Singh - Terminal Profile"
   />
 </div>
-
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -86,7 +86,6 @@
 <img src="./assets/icons/git.svg?v=1" width="74" alt="Git">
 <img src="./assets/icons/github.svg?v=1" width="74" alt="GitHub">
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
