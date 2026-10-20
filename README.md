@@ -27,7 +27,6 @@
 ---
 -->
 
-## `> contributions`
 
 <div align="center">
 
