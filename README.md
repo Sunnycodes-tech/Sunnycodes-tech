@@ -52,43 +52,52 @@
 ---
 
 
-## `> whoami`
+<div align="center">
+  <h3><code>sunny@github ~ $ about</code></h3>
+</div>
 
-```typescript
-const sunny = {
-  name: "Sunny Singh",
-  role: "Aspiring Software Engineer",
-  education: "BCA - Manipal University Jaipur",
+<div style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
 
-  focus: [
-    "Full-Stack Development",
-    "Java & DSA",
-    "System Design",
-    "Open Source"
+<pre><code><span style="color:#39d353">const</span> <span style="color:#79c0ff">sunny</span> = {
+  <span style="color:#7ee787">name</span>: <span style="color:#a5d6ff">"Sunny Singh"</span>,
+  <span style="color:#7ee787">role</span>: <span style="color:#a5d6ff">"Aspiring Software Engineer"</span>,
+  <span style="color:#7ee787">education</span>: <span style="color:#a5d6ff">"BCA - Manipal University Jaipur"</span>,
+
+  <span style="color:#7ee787">focus</span>: [
+    <span style="color:#a5d6ff">"Full-Stack Development"</span>,
+    <span style="color:#a5d6ff">"Java &amp; DSA"</span>,
+    <span style="color:#a5d6ff">"System Design"</span>,
+    <span style="color:#a5d6ff">"Open Source"</span>
   ],
 
-  stack: {
-    languages: ["Java", "JavaScript", "TypeScript"],
-    frontend: ["React", "Next.js", "HTML", "CSS"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MongoDB", "PostgreSQL"]
+  <span style="color:#7ee787">stack</span>: {
+    <span style="color:#39d353">languages</span>: [<span style="color:#a5d6ff">"Java"</span>, <span style="color:#a5d6ff">"JavaScript"</span>, <span style="color:#a5d6ff">"TypeScript"</span>],
+    <span style="color:#39d353">frontend</span>: [<span style="color:#a5d6ff">"React"</span>, <span style="color:#a5d6ff">"Next.js"</span>, <span style="color:#a5d6ff">"HTML"</span>, <span style="color:#a5d6ff">"CSS"</span>],
+    <span style="color:#39d353">backend</span>: [<span style="color:#a5d6ff">"Node.js"</span>, <span style="color:#a5d6ff">"Express.js"</span>],
+    <span style="color:#39d353">databases</span>: [<span style="color:#a5d6ff">"MongoDB"</span>, <span style="color:#a5d6ff">"PostgreSQL"</span>]
   },
 
-  currentlyLearning: [
-    "Advanced DSA",
-    "Full-Stack Development",
-    "Open Source Contributions"
+  <span style="color:#7ee787">currentlyLearning</span>: [
+    <span style="color:#a5d6ff">"Advanced DSA"</span>,
+    <span style="color:#a5d6ff">"Full-Stack Development"</span>,
+    <span style="color:#a5d6ff">"Open Source Contributions"</span>
   ],
 
-  goal: "Building useful things with code"
+  <span style="color:#7ee787">goal</span>: <span style="color:#a5d6ff">"Building useful things with code"</span>
 };
-```
+<span style="color:#39d353">➜</span> <span style="color:#8b949e">Ready to build.</span></code></pre>
+
+</div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## `> tech-stack`
+<div align="center">
+  <h3><code>sunny@github ~ $ tech-stack</code></h3>
+</div>
 
 <p>
 <img src="./assets/icons/java.svg?v=1" width="74" alt="Java">
