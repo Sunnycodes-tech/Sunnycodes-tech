@@ -1,0 +1,63 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="440" viewBox="0 0 980 440" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+  <style>
+    .key { fill:#3fb950; font-size:13px; font-weight:700; }
+    .val { fill:#c9d1d9; font-size:13px; }
+    .acc { fill:#58a6ff; font-size:13px; }
+    .wrn { fill:#d29922; font-size:13px; }
+    .mut { fill:#8b949e; font-size:12px; }
+    .hdr { fill:#58a6ff; font-size:15px; font-weight:700; }
+    .sec { fill:#8b949e; font-size:12px; letter-spacing:1px; }
+    .ttl { fill:#8b949e; font-size:12px; }
+    .row { animation:fade .35s ease backwards; }
+    @keyframes fade {
+      from { opacity:0; transform:translateY(3px); }
+      to { opacity:1; transform:translateY(0); }
+    }
+    .cur { fill:#3fb950; animation:blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity:0; } }
+  </style>
+
+  <rect x="1" y="1" width="978" height="438" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h954 a12 12 0 0 1 12 12 v25 h-978 z" fill="#161b22"/>
+  <line x1="1" y1="38" x2="979" y2="38" stroke="#30363d"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+  <text x="490" y="24" class="ttl" text-anchor="middle">Sunny — zsh — 90×26</text>
+
+  <text x="30" y="66" class="row"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">neofetch --profile</tspan></text>
+
+  <text x="55" y="110" class="hdr">Sunny Singh</text>
+  <line x1="55" y1="119" x2="925" y2="119" stroke="#30363d"/>
+
+  <text x="55" y="143" class="key">Role</text>
+  <text x="165" y="143" class="val">Aspiring Software Engineer (SDE)</text>
+  <text x="55" y="162" class="key">Edu</text>
+  <text x="165" y="162" class="val">BCA · Manipal University Jaipur</text>
+  <text x="55" y="181" class="key">Focus</text>
+  <text x="165" y="181" class="acc">Full-Stack · Java &amp; DSA · Open Source</text>
+
+  <text x="55" y="213" class="sec">~/stack</text>
+  <text x="55" y="234" class="key">Frontend</text>
+  <text x="165" y="234" class="val">React.js · Next.js · JavaScript · TypeScript</text>
+  <text x="55" y="253" class="key">Backend</text>
+  <text x="165" y="253" class="val">Node.js · Express.js · Spring Boot</text>
+  <text x="55" y="272" class="key">Database</text>
+  <text x="165" y="272" class="val">MongoDB · PostgreSQL · MySQL</text>
+  <text x="55" y="291" class="key">Tools</text>
+  <text x="165" y="291" class="val">Git · GitHub · VS Code · IntelliJ IDEA</text>
+
+  <text x="55" y="323" class="sec">~/projects</text>
+  <text x="55" y="344" class="key">Portfolio</text>
+  <text x="165" y="344" class="wrn">Personal Developer Portfolio</text>
+  <text x="55" y="363" class="key">EcomFlow</text>
+  <text x="165" y="363" class="wrn">AI-Powered Ecommerce Automation</text>
+  <text x="55" y="382" class="key">OpenSource</text>
+  <text x="165" y="382" class="wrn">Open Source Contributions</text>
+
+  <text x="55" y="410" class="key">GitHub</text>
+  <text x="165" y="410" class="acc">github.com/Sunnycodes-tech</text>
+  <text x="55" y="429" class="key">Goal</text>
+  <text x="165" y="429" class="val">Building useful things with code</text>
+</svg>
