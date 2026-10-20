@@ -53,7 +53,7 @@
 
 
 <div align="center">
-  <h3><code>sunny@github ~ $ about</code></h3>
+  <h3><code>sunny@github ~ $ about-me</code></h3>
 </div>
 
 <div style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
@@ -116,7 +116,9 @@
 ---
 
 
-## `> github-stats`
+<div align="center">
+  <h3><code>sunny@github ~ $ github-stats</code></h3>
+</div>
 
 <p align="center">
   <img
@@ -139,7 +141,7 @@
 <p align="left">
   <img
     width="48%"
-    src="https://streak-stats.demolab.com/?user=Sunnycodes-tech&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=Sunnycodes-tech&background=0d1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=39D353&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
@@ -148,8 +150,9 @@
 
 ---
 
-
-## `> contribution-activity`
+<div align="center">
+  <h3><code>sunny@github ~ $ activity.log</code></h3>
+</div>
 
 <p align="center">
   <img
@@ -158,7 +161,6 @@
     alt="Contribution Activity Graph"
   />
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
@@ -178,7 +180,9 @@
 -->
 
 
-## `> connect --with-me`
+<div align="center">
+  <h3><code>sunny@github ~ $ connect.sh</code></h3>
+</div>
 
 <div align="start">
 
@@ -234,7 +238,9 @@
 
 
 
-## `> contact --me`
+<div align="center">
+  <h3><code>sunny@github ~ $ contact --me</code></h3>
+</div>
 
 **Always open to meaningful collaborations, great projects, and open-source opportunities.**
 <br>
