@@ -57,8 +57,7 @@ def short(d):
 
 
 def span(s):
-    return f'{short(s["start"])} â€“ {short(s["end"])}' if s["length"] else "â€”"
-
+    return f'{short(s["start"])} - {short(s["end"])}' if s["length"] else "-"
 
 data = json.load(open(SRC))
 cur, lng, best = data["current_streak"], data["longest_streak"], data["best_day"]
