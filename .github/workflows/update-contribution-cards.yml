@@ -1,3 +1,4 @@
+
 name: Update Contribution Cards
 
 on:
@@ -22,12 +23,22 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: |
-          python -m pip install requests beautifulsoup4
+        run: python -m pip install requests beautifulsoup4
 
-      - name: Check repository files
+      - name: Fetch contribution data
+        run: python scripts/fetch_contributions.py
+
+      - name: Generate contribution heatmap
+        run: python scripts/generate_heatmap.py
+
+      - name: Generate stats card
+        run: python scripts/generate_stats.py
+
+      - name: Commit updated contribution files
         run: |
-          echo "Checking contribution card files..."
-          test -f stats.svg
-          test -f contrib-heatmap.svg
-          echo "Both SVG files exist."
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/contributions.json contrib-heatmap.svg stats.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update contribution cards"
+          git push
