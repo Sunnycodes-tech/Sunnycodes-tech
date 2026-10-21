@@ -209,7 +209,7 @@
 ---
 
 
-
+<!--
 <div align="center">
   <h3><code>sunny@github ~ $ contact --me</code></h3>
 </div>
@@ -227,3 +227,4 @@
     <img width="190" src="./assets/contact-email.svg?v=1" alt="Send an email">
   </a>
 </p>
+-->
