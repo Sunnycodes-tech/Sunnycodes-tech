@@ -8,7 +8,9 @@
 <img src="./contrib-heatmap.svg" width="860" alt="Sunny Singh's GitHub contribution graph — auto-refreshed daily" />
 
 <br><br>
-
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ 
+---
 <!-- ASCII portrait (left) + contribution stats card (right).
      Both SVGs are designed to have matching dimensions.
      Portrait: prepare your photo with scripts/prep_photo.py,
@@ -29,6 +31,164 @@
 </table>
 
 <br><br>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+ 
+---
+<div align="center">
+  <h3><code>sunny@github ~ $ about-me</code></h3>
+</div>
+
+<div align="center">
+  <img
+    src="./profile/about.svg"
+    width="100%"
+    alt="Sunny Singh - Terminal Profile"
+  />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<div align="center">
+  <h3><code>sunny@github ~ $ tech-stack</code></h3>
+</div>
+
+<p>
+<img src="./assets/icons/java.svg?v=1" width="74" alt="Java">
+<img src="./assets/icons/javascript.svg?v=1" width="74" alt="JavaScript">
+<img src="./assets/icons/typescript.svg?v=1" width="74" alt="TypeScript">
+<img src="./assets/icons/react.svg?v=1" width="74" alt="React">
+<img src="./assets/icons/nextjs.svg?v=1" width="74" alt="Next.js">
+<img src="./assets/icons/redux.svg?v=1" width="74" alt="Redux">
+<img src="./assets/icons/tailwind.svg?v=1" width="74" alt="Tailwind CSS">
+<img src="./assets/icons/git.svg?v=1" width="74" alt="Git">
+<img src="./assets/icons/github.svg?v=1" width="74" alt="GitHub">
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+<div align="center">
+  <h3><code>sunny@github ~ $ github-stats</code></h3>
+</div>
+
+<p align="center">
+  <img
+    align="left"
+    width="48%"
+    src="./profile/stats.svg"
+    alt="GitHub Stats"
+  />
+
+  <img
+    align="right"
+    width="41%"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
+</p>
+
+<br clear="both"/>
+
+
+<p align="left">
+  <img
+    width="48%"
+    src="https://streak-stats.demolab.com/?user=Sunnycodes-tech&background=0d1117&ring=1F6FEB&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&hide_border=false"
+    alt="GitHub Streak"
+  />
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+<div align="center">
+  <h3><code>sunny@github ~ $ activity.log</code></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sunnycodes-tech/Sunnycodes-tech/output/activity-graph.svg"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+<!--
+## ðŸ Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sunnycodes-tech/Sunnycodes-tech/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+-->
+
+<!--
+<div align="center">
+  <h3><code>sunny@github ~ $ connect.sh</code></h3>
+</div>
+
+<div align="start">
+
+<a href="mailto:sunnysinghcodex@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.linkedin.com/in/sunnycodes-tech/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://github.com/Sunnycodes-tech" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://x.com/sunnycode_x" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.threads.com/@sunnycode_x" target="_blank">
+  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.instagram.com/_sunnyy_singh/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.reddit.com/user/sunny_codex/" target="_blank">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+</a>
+&nbsp;
+
+<a href="https://www.quora.com/profile/Sunny-Codex" target="_blank">
+  <img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" />
+</a>
+
+
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+-->
 
 <!-- Personal links and developer introduction. -->
 <h3><code>sunny@github ~ $ ./links.sh</code></h3>
@@ -40,3 +200,26 @@
 <br>
 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+
+
+<div align="center">
+  <h3><code>sunny@github ~ $ contact --me</code></h3>
+</div>
+
+*Always open to meaningful collaborations, great projects, and open-source opportunities.*
+<br>
+*Built with intent. Shipped with purpose.*
+
+<p align="start">
+  <a href="https://www.linkedin.com/in/sunnycodes-tech/">
+    <img width="190" src="./assets/contact-linkedin.svg?v=1" alt="Connect on LinkedIn">
+  </a>
+    &nbsp;&nbsp;&nbsp;
+  <a href="mailto:sunnysinghcodex@gmail.com">
+    <img width="190" src="./assets/contact-email.svg?v=1" alt="Send an email">
+  </a>
+</p>
