@@ -1,3 +1,31 @@
+<div align="center">
+  <img width="90%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:0d1117&height=250&section=header&text=SUNNY%20SINGH&fontSize=74&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer" />
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&pause=1200&color=0E75B6&center=true&vCenter=true&random=false&width=1200&lines=Hey+there!+I'm+Sunny+Singh+;Software+Engineer+;Full-Stack+Developer+;Building+Scalable+Web+Applications+;Building+Cross-Platform+Mobile+Apps+;Open-Source+Contributor+;Manipal+University+Jaipur+;Always+Learning,+Always+Building+)](https://git.io/typing-svg)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Sunnycodes-tech&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Sunnycodes-tech?label=FOLLOWERS&style=for-the-badge&color=0e75b6&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO-COLLABORATE-brightgreen?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/LIVES%20IN-INDIA%20🇮🇳-blue?style=for-the-badge&labelColor=0d1117" />
+
+</div>
+
+<br/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+ 
  <div align="center">
 
 <!-- Animated contribution graph: real GitHub contribution data.
@@ -108,7 +136,7 @@
 ---
 -->
 
-<!-- 
+
 <div align="center">
   <h3><code>sunny@github ~ $ activity.log</code></h3>
 </div>
@@ -123,7 +151,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
--->
+
 
 <!--
 ##  Contribution Snake
@@ -209,7 +237,7 @@
 ---
 
 
-<!--
+
 <div align="center">
   <h3><code>sunny@github ~ $ contact --me</code></h3>
 </div>
@@ -218,7 +246,7 @@
 <br>
 *Built with intent. Shipped with purpose.*
 
-<p align="start">
+<p align="center">
   <a href="https://www.linkedin.com/in/sunnycodes-tech/">
     <img width="190" src="./assets/contact-linkedin.svg?v=1" alt="Connect on LinkedIn">
   </a>
@@ -227,4 +255,4 @@
     <img width="190" src="./assets/contact-email.svg?v=1" alt="Send an email">
   </a>
 </p>
--->
+
