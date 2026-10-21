@@ -5,7 +5,7 @@
 <text x="795" y="32" text-anchor="end" class="label">Updated from contribution calendar</text>
 <rect x="25" y="55" width="370" height="58" rx="8" fill="#161b22" stroke="#30363d"/>
 <text x="40" y="77" class="label">Total Contributions</text>
-<text x="40" y="102" class="number">104</text>
+<text x="40" y="102" class="number">107</text>
 <rect x="425" y="55" width="370" height="58" rx="8" fill="#161b22" stroke="#30363d"/>
 <text x="440" y="77" class="label">Active Days</text>
 <text x="440" y="102" class="number">22</text>
@@ -26,7 +26,7 @@
 <text x="470.8" y="340" text-anchor="middle" class="label">Aug</text>
 <rect x="545.7" y="313.4" width="93.7" height="6.6" rx="3" fill="#39d353"/>
 <text x="592.5" y="340" text-anchor="middle" class="label">Sep</text>
-<rect x="667.3" y="278.1" width="93.7" height="41.9" rx="3" fill="#39d353"/>
+<rect x="667.3" y="271.5" width="93.7" height="48.5" rx="3" fill="#39d353"/>
 <text x="714.2" y="340" text-anchor="middle" class="label">Oct</text>
 <text x="795" y="218" text-anchor="end" class="label">Best day: 17 contributions (2026-10-20)</text>
 </svg>
