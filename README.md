@@ -126,15 +126,14 @@
 <br clear="both"/>
 
 
+
 <p align="left">
   <img
     width="48%"
-    src="https://streak-stats.demolab.com/?user=Sunnycodes-tech&background=0d1117&ring=1F6FEB&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&border=30363d&hide_border=false"
+    src="https://streak-stats.demolab.com/?user=Sunnycodes-tech&background=0d1117&ring=3FB950&fire=39D353&currStreakLabel=3FB950&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&border=30363d&hide_border=false"
     alt="GitHub Streak"
   />
 </p>
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
