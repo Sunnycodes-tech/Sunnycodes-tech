@@ -20,7 +20,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: bg_color=0d1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0F3D91&hide_border=true
+          options: bg_color=0D1117&color=8B949E&line=58A6FF&point=79C0FF&area=true&area_color=0F3D91&hide_border=false&title_color=58A6FF&radius=10&height=400&custom_title=Sunny%20Singh%27s%20Contribution%20Graph
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
