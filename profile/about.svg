@@ -24,7 +24,7 @@
   <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
   <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
   <circle cx="64" cy="20" r="6" fill="#27c93f"/>
-  <text x="490" y="24" class="ttl" text-anchor="middle">Sunny — zsh — 90×26</text>
+  <text x="490" y="24" class="ttl" text-anchor="middle">Sunnycodes-tech</text>
 
   <text x="30" y="66" class="row"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">neofetch --profile</tspan></text>
 
@@ -32,11 +32,11 @@
   <line x1="55" y1="114" x2="925" y2="114" stroke="#30363d"/>
 
   <text x="55" y="137" class="key">Role</text>
-  <text x="165" y="137" class="val">Aspiring Software Engineer (SDE)</text>
+  <text x="165" y="137" class="val">Aspiring Software Engineer (SDE) / Full Stack Developer</text>
   <text x="55" y="156" class="key">Edu</text>
-  <text x="165" y="156" class="val">BCA · Manipal University Jaipur</text>
+  <text x="165" y="156" class="val">Bachelor of Computer Applications (BCA) · Manipal University Jaipur</text>
   <text x="55" y="175" class="key">Focus</text>
-  <text x="165" y="175" class="acc">Full-Stack · Java &amp; DSA · Open Source</text>
+  <text x="165" y="175" class="acc">Full-Stack Development· Java &amp; DSA · Open Source</text>
 
   <text x="55" y="205" class="sec">~/stack</text>
   <text x="55" y="226" class="key">Frontend</text>
