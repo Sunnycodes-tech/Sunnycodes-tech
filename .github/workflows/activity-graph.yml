@@ -21,7 +21,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: ${{ github.repository_owner }}
-          options: bg_color=0D1117&color=8B949E&line=39D353&point=3FB950&area=true&area_color=0D4429&hide_border=true&title_color=3FB950&radius=10&height=400&custom_title=sunny%40github%20~%20%24%20contribution.log
+          options: bg_color=0D1117&color=8B949E&line=39D353&point=3FB950&area=true&area_color=0D4429&hide_border=true&title_color=3FB950&radius=10&height=400&custom_title=contribution.log
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -29,15 +29,35 @@ jobs:
         run: |
           python - <<'PY'
           from pathlib import Path
+          import re
 
           path = Path("dist/activity-graph.svg")
           svg = path.read_text(encoding="utf-8")
 
-          svg = svg.replace(
-              'style="stroke:#ffffff; stroke-width:1;"',
-              'style="stroke:#30363d; stroke-width:1;"'
+          # Remove the title above the graph
+          svg = re.sub(
+              r'<foreignObject\b[^>]*>.*?</foreignObject>',
+              '',
+              svg,
+              flags=re.DOTALL
           )
 
+          # Remove the outer background rectangle border
+          svg = re.sub(
+              r'(<rect\b[^>]*data-testid="card_bg"[^>]*?)\s+stroke="[^"]*"',
+              r'\1 stroke="none"',
+              svg,
+              count=1
+          )
+
+          svg = re.sub(
+              r'(<rect\b[^>]*data-testid="card_bg"[^>]*?)\s+style="[^"]*"',
+              r'\1 style="stroke:none;stroke-width:0;"',
+              svg,
+              count=1
+          )
+
+          # Keep the title font monospace if any title remains
           svg = svg.replace(
               "font: 600 20px 'Segoe UI', Ubuntu, Sans-Serif;",
               "font: 600 20px monospace;"
