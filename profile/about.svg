@@ -1,10 +1,10 @@
-
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="500" viewBox="0 0 980 500" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
+<escape><svg xmlns="http://www.w3.org/2000/svg" width="980" height="500" viewBox="0 0 980 500" font-family="ui-monospace, SFMono-Regular, 'JetBrains Mono', 'Cascadia Code', Menlo, Consolas, monospace">
   <style>
     .key { fill:#3fb950; font-size:13px; font-weight:700; }
     .val { fill:#c9d1d9; font-size:13px; }
     .acc { fill:#58a6ff; font-size:13px; }
-    .wrn { fill:#d29922; font-size:13px; }
+    .wrn { fill:#ffbd2e; font-size:13px; }
+    .focus { fill:#ff5f56; font-size:13px; }
     .mut { fill:#8b949e; font-size:12px; }
     .hdr { fill:#58a6ff; font-size:15px; font-weight:700; }
     .sec { fill:#8b949e; font-size:12px; letter-spacing:1px; }
@@ -36,7 +36,7 @@
   <text x="55" y="156" class="key">Edu</text>
   <text x="165" y="156" class="val">Bachelor of Computer Applications (BCA) · Manipal University Jaipur</text>
   <text x="55" y="175" class="key">Focus</text>
-  <text x="165" y="175" class="acc">Full-Stack Development· Java &amp; DSA · Open Source</text>
+  <text x="165" y="175" class="focus">Full-Stack Development · Java &amp; DSA · Open Source</text>
 
   <text x="55" y="205" class="sec">~/stack</text>
   <text x="55" y="226" class="key">Frontend</text>
@@ -66,4 +66,4 @@
 
   <text x="55" y="478" class="key">LinkedIn</text>
   <text x="165" y="478" class="acc">linkedin.com/in/Sunnycodes-tech</text>
-</svg>
+</svg></escape>
