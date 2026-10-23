@@ -16,8 +16,10 @@ COLORS = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"]
 
 
 def main():
-    data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-    values = {item["date"]: item["count"] for item in data}
+   data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
+   days = data["days"]
+   values = {item["date"]: item["count"] for item in days}
+
 
     dates = sorted(values)
     if not dates:
