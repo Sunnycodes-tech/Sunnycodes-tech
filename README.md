@@ -67,6 +67,7 @@
  
 ---
 
+<!--
 <div align="center">
   <h3><code>sunny@github ~ $ whoami </code></h3>
 </div>
@@ -81,7 +82,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
+-->
 
 <div align="center">
   <h3><code>sunny@github ~ $ tech-stack</code></h3>
@@ -226,6 +227,8 @@
 -->
 
 <!-- Personal links and developer introduction. -->
+
+<!--
 <h3><code>sunny@github ~ $ ./links.sh</code></h3>
 
 <p><b>Software Engineer · Full-Stack Developer · Problem Solver</b></p>
@@ -238,11 +241,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
-
+-->
 
 
 <div align="center">
-  <h3><code>sunny@github ~ $ contact --me</code></h3>
+<h3><code>sunny@github ~ $ ./links.sh</code></h3>
+  <p><b>Software Engineer · Full-Stack Developer · Problem Solver</b></p>
 </div>
 
 *Always open to meaningful collaborations, great projects, and open-source opportunities.*
